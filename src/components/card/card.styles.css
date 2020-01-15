@@ -1,0 +1,12 @@
+.card {
+  border: 1px solid gray;
+  background-color: black;
+  padding: 5px;
+  margin: 10px;
+}
+
+.card h1,
+.card p {
+  color: white;
+  text-align: center;
+}

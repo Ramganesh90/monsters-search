@@ -1,3 +1,7 @@
+.header h1 {
+  font-family: "Rancho", cursive;
+  font-size: 65px;
+}
 .header input {
   border: 1px solid purple;
   width: 300px;
